@@ -16,5 +16,11 @@
         "key": "EREFAN",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8ab8263d787ce48d",
+        "key": "RAYKO",
+        "expirydate": "99-99-9999",
+        "Allowoffline": false
     }
 ]
