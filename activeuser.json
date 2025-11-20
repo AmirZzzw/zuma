@@ -10,11 +10,5 @@
         "key": "EREFAN",
         "expirydate": "25-11-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "",
-        "key": "",
-        "expirydate": "",
-        "Allowoffline": false
     }
 ]
