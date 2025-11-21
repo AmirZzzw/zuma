@@ -22,5 +22,11 @@
         "key": "RAYKO",
         "expirydate": "99-99-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "97606fdaa96932ec",
+        "key": "",
+        "expirydate": "19-12-2025",
+        "Allowoffline": false
     }
 ]
