@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "97606fdaa96932ec",
-        "key": "DANI",
-        "expirydate": "19-12-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "12d8a4cb7b451bbd",
         "key": "EREFAN",
         "expirydate": "25-11-2025",
@@ -21,18 +15,6 @@
         "device_id": "8ab8263d787ce48d",
         "key": "RAYKO",
         "expirydate": "99-99-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "97606fdaa96932ec",
-        "key": "DANI",
-        "expirydate": "19-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "97606fdaa96932ec",
-        "key": "DANI",
-        "expirydate": "19-12-2025",
         "Allowoffline": false
     }
 ]
