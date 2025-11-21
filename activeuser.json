@@ -28,11 +28,5 @@
         "key": "EREFAN",
         "expirydate": "19-12-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "54f499cb0ebf4b97",
-        "key": "Kian",
-        "expirydate": "21-12-2025",
-        "Allowoffline": false
     }
 ]
