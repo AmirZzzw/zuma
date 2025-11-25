@@ -34,5 +34,11 @@
         "key": "Kian",
         "expirydate": "30-3-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4e6c290a4566e163",
+        "key": "TesT",
+        "expirydate": "26-11-2025",
+        "Allowoffline": false
     }
 ]
