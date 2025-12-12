@@ -16,5 +16,11 @@
         "key": "Kian",
         "expirydate": "30-3-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "12d8a4cb7b451bbd",
+        "key": "EREFAN",
+        "expirydate": "12-1-2026",
+        "Allowoffline": false
     }
 ]
